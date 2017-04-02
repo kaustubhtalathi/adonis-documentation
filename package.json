@@ -54,7 +54,7 @@
     "node-sass": "^4.3.0",
     "nodemon": "^1.11.0",
     "standard": "^8.6.0",
-    "uglify-js": "^2.7.5",
+    "uglify-js": "^2.8.21",
     "watch": "^1.0.1"
   }
 }
